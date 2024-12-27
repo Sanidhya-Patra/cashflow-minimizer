@@ -31,7 +31,7 @@ This is represented below as a directed graph with the directed edge representin
 **But there's a catch!!**
 Each Bank only supports a set of modes of payments and can _make_ or _receive_ payments **only** via those. Only World Bank suppports **all** modes of payments.
 In our current example we have only three payment modes :
-1. Google_Pay
+1. Google Pay
 2. AliPay
 3. Paytm
 
